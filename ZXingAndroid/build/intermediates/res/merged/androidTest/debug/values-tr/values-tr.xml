@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/AndroidStudioProjects/Day44_QRCode/ZXingAndroid/build/intermediates/bundles/debug/res/values-tr/values-tr.xml -->
+    <!-- From: file:/F:/android_mukewang/Day44_QRCode/ZXingAndroid/build/intermediates/bundles/debug/res/values-tr/values-tr.xml -->
     <eat-comment/>
     <string name="app_picker_name">Uygulamalar</string>
     <string name="bookmark_picker_name">Yer imleri</string>

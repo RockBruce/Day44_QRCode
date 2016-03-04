@@ -133,4 +133,4 @@
         android:title="@string/preferences_disable_barcode_scene_mode_title"/>
   </PreferenceCategory>
 </PreferenceScreen>
-<!-- From: file:/D:/AndroidStudioProjects/Day44_QRCode/ZXingAndroid/src/main/res/xml/preferences.xml -->
+<!-- From: file:/F:/android_mukewang/Day44_QRCode/ZXingAndroid/src/main/res/xml/preferences.xml -->

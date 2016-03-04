@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
-    <!-- From: file:/D:/AndroidStudioProjects/Day44_QRCode/ZXingAndroid/build/intermediates/bundles/debug/res/values/values.xml -->
+    <!-- From: file:/F:/android_mukewang/Day44_QRCode/ZXingAndroid/build/intermediates/bundles/debug/res/values/values.xml -->
     <eat-comment/>
     <string-array name="country_codes" ns1:ignore="MissingTranslation">
     <item>-</item>

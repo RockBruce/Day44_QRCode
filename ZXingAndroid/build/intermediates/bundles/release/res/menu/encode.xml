@@ -25,4 +25,4 @@
         android:icon="@android:drawable/ic_menu_sort_alphabetically"
         android:orderInCategory="2"
         android:showAsAction="withText|ifRoom"/>
-</menu><!-- From: file:/D:/AndroidStudioProjects/Day44_QRCode/ZXingAndroid/src/main/res/menu/encode.xml -->
+</menu><!-- From: file:/F:/android_mukewang/Day44_QRCode/ZXingAndroid/src/main/res/menu/encode.xml -->
